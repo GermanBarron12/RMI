@@ -1,3 +1,5 @@
+package com.example;
+
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 import java.net.InetAddress;
